@@ -35,10 +35,5 @@ These scripts were used to generate the synthetic examples and figures presented
 
 ```octave
 quick_test
-
-clear all; close all; clc;
-
-model_type = 2;   % 1=body, 2=dike, 3=contact
-
 synthetic_models
 attributes_asa_avd
