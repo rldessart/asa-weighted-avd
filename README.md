@@ -36,7 +36,6 @@ These scripts were used to generate the synthetic examples and figures presented
 ```octave
 quick_test
 
-```markdown
 ## License
 
 This code is provided for academic and research purposes. Users are free to use, modify, and distribute the scripts, provided that proper citation of the associated publication is given.
