@@ -26,3 +26,11 @@ The codes implement synthetic magnetic responses for simple geological models (b
 
 ```octave
 quick_test
+% Quick test for ASA-weighted AVD method
+
+clear all; close all; clc;
+
+model_type = 2;   % 1=body, 2=dike, 3=contact
+
+synthetic_models
+attributes_asa_avd
