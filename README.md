@@ -31,9 +31,12 @@ These scripts were used to generate the synthetic examples and figures presented
 
 1. Open GNU Octave.
 2. Navigate to the repository folder.
-3. Run the following command:
+3. Run the quick test script:
 
 ```octave
 quick_test
-synthetic_models
-attributes_asa_avd
+
+```markdown
+## License
+
+This code is provided for academic and research purposes. Users are free to use, modify, and distribute the scripts, provided that proper citation of the associated publication is given.
